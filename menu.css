@@ -1,0 +1,11 @@
+.nav-item{
+   float:right;
+   margin-right: 3px;
+   padding: 3px;
+}
+body{
+    background-color: pink;
+}
+label:hover{
+text-decoration: underline;
+}
